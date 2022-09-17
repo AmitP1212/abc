@@ -1,0 +1,20 @@
+#actor {
+    font-family: cursive;
+    border-radius: 1em;
+    /* border-color: black; */
+    margin-top: 10px ;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}  
+
+.bgimg{
+    background-image: url('https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_640.jpg');
+    background-size:100% 100%;
+    
+    
+    background-repeat:no-repeat; 
+  }
+
+
+  
